@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1664288356 source:c:\users\acer\documents\uli uli\tugas grafikom\garis\main.cpp
+	<gl/glut.h>
+
+1426320928 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
